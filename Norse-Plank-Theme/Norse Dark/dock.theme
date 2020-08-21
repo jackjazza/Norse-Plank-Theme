@@ -1,0 +1,21 @@
+
+[PlankTheme]
+#The starting color (RGBA) of the fill gradient.
+FillStartColor=30;;30;;30;;170        
+#The ending color (RGBA) of the fill gradient.
+FillEndColor=30;;30;;30;;170
+TopRoundness=0
+BottomRoundness=0
+OuterStrokeColor=30;;30;;30;;130
+#The color (RGBA) of the inner stroke.
+InnerStrokeColor=30;;30;;30;;130
+
+[PlankDockTheme]
+HorizPadding=3
+TopPadding=2
+BottomPadding=2
+IconShadowSize=0
+CascadeHide=false
+
+
+
